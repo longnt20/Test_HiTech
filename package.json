@@ -1,0 +1,26 @@
+{
+  "name": "ticket-booking-api",
+  "version": "1.0.0",
+  "description": "Ticket Booking REST API with in-memory storage, stock management, and discount calculation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test tests/**/*.test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "ticket-booking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0"
+  }
+}
+
