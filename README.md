@@ -2,7 +2,7 @@
 
 Hệ thống API đặt vé (Ticket Booking API) được xây dựng bằng **Node.js** và **Express.js**, quản lý dữ liệu vé và đơn hàng giả lập trong bộ nhớ (In-memory), có cơ chế kiểm tra dữ liệu đầu vào nghiêm ngặt, quản lý tồn kho, tính toán tiền theo giá backend cố định và áp dụng chính sách giảm giá tự động.
 
-Dự án được thiết kế theo cấu trúc phân tầng rõ ràng (Routes - Controllers - Services - Data - Utils), tuân thủ chuẩn RESTful API, phù hợp cho bài test tuyển dụng và dễ dàng giải thích trong các buổi phỏng vấn kỹ thuật.
+Dự án được thiết kế theo cấu trúc phân tầng rõ ràng (Routes - Controllers - Services - Data - Utils), tuân thủ chuẩn RESTful API.
 
 ---
 
